@@ -14,9 +14,11 @@ Displaying information about cryptocurrencies using state management provider an
 ## Installation and Setup
 
 1. Make sure Flutter and its SDK are installed on your system.
-2. Clone or download the repository.
-3. Open the project folder in your code editor.
-4. Run `pub get` to install the required packages.
+2. create a flutter project
+3. Clone or download the repository.
+4. Copy the downloaded files in the main path of the app and replace the previous one
+5. Open the project folder in your code editor.
+6. Run `pub get` to install the required packages.
 
 ## Usage
 
